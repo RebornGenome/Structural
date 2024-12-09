@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Projects\C#\2 КУРС\PatternAdapter\bin\Debug\net8.0\PatternAdapter.exe
+C:\Users\User\Desktop\Projects\C#\2 КУРС\PatternAdapter\bin\Debug\net8.0\PatternAdapter.deps.json
+C:\Users\User\Desktop\Projects\C#\2 КУРС\PatternAdapter\bin\Debug\net8.0\PatternAdapter.runtimeconfig.json
+C:\Users\User\Desktop\Projects\C#\2 КУРС\PatternAdapter\bin\Debug\net8.0\PatternAdapter.dll
+C:\Users\User\Desktop\Projects\C#\2 КУРС\PatternAdapter\bin\Debug\net8.0\PatternAdapter.pdb
+C:\Users\User\Desktop\Projects\C#\2 КУРС\PatternAdapter\obj\Debug\net8.0\PatternAdapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Projects\C#\2 КУРС\PatternAdapter\obj\Debug\net8.0\PatternAdapter.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Projects\C#\2 КУРС\PatternAdapter\obj\Debug\net8.0\PatternAdapter.AssemblyInfo.cs
+C:\Users\User\Desktop\Projects\C#\2 КУРС\PatternAdapter\obj\Debug\net8.0\PatternAdapter.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projects\C#\2 КУРС\PatternAdapter\obj\Debug\net8.0\PatternAdapter.dll
+C:\Users\User\Desktop\Projects\C#\2 КУРС\PatternAdapter\obj\Debug\net8.0\refint\PatternAdapter.dll
+C:\Users\User\Desktop\Projects\C#\2 КУРС\PatternAdapter\obj\Debug\net8.0\PatternAdapter.pdb
+C:\Users\User\Desktop\Projects\C#\2 КУРС\PatternAdapter\obj\Debug\net8.0\PatternAdapter.genruntimeconfig.cache
+C:\Users\User\Desktop\Projects\C#\2 КУРС\PatternAdapter\obj\Debug\net8.0\ref\PatternAdapter.dll
